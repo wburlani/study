@@ -11,6 +11,8 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "consign": "^0.1.2",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.0.0",
     "ejs": "^2.7.4",
     "express": "^4.14.0",
     "express-session": "^1.17.1",

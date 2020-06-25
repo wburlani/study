@@ -10,22 +10,7 @@ https://www.mysql.com/
 MODELS - ACESSO AO BANCO DE DADOS, REGRAS DE NEGOCIO;
 CONTROLLERS - MEDIADOR 
 VIEWS - APRESENTAÇÃO 
-
-
-/
-	app.js
-	package.json
-	package-lock.json
-		app
-			controllers
-			models
-			public
-			routes
-			views
-		config
-			connection.js
-			server.js
-	node_modules		
+	
 
 # npm -v
 # npm install nodemon
